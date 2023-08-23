@@ -1,4 +1,4 @@
-# DropwizardWebService
+# DropwizardWebService - Training
 
 How to start the DropwizardWebService application
 ---
